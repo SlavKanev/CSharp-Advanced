@@ -1,0 +1,14 @@
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\bin\Debug\net8.0\01.Count Same Values in Array.exe
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\bin\Debug\net8.0\01.Count Same Values in Array.deps.json
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\bin\Debug\net8.0\01.Count Same Values in Array.runtimeconfig.json
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\bin\Debug\net8.0\01.Count Same Values in Array.dll
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\bin\Debug\net8.0\01.Count Same Values in Array.pdb
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.AssemblyInfoInputs.cache
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.AssemblyInfo.cs
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.csproj.CoreCompileInputs.cache
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.dll
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\refint\01.Count Same Values in Array.dll
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.pdb
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\01.Count Same Values in Array.genruntimeconfig.cache
+E:\Програмиране\Again Level C# Advanced\SetsAndDictionariesAdvanced\01.Count Same Values in Array\obj\Debug\net8.0\ref\01.Count Same Values in Array.dll
